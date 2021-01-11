@@ -5,6 +5,7 @@ Unless otherwise known, assume all sites to be NSFW
 ==================== =================================== ================================================== ================
 Site                 URL                                 Capabilities                                       Authentication
 ==================== =================================== ================================================== ================
+MangaToRead          https://mangatoread.com/            Manga
 35PHOTO              https://35photo.pro/                |35photo-C|
 3dbooru              http://behoimi.org/                 Pools, Popular Images, Posts, Tag Searches
 4chan                https://www.4chan.org/              Boards, Threads
